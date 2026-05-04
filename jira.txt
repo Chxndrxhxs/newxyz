@@ -1,0 +1,19 @@
+5. what is jira?
+
+description-:
+
+Jira is a project management and issue-tracking tool widely used in Agile teams.
+It helps teams plan, track, and manage tasks like features, bugs, and improvements.
+Work is organized into tickets that move through workflows (e.g., To Do → In Progress → Done).
+It supports Agile practices like Scrum and Kanban with boards and sprint tracking.
+Teams use it to improve visibility, collaboration, and overall project control.
+
+Jira Workflow
+-------------
+1-Create Issue – Add a task, bug, or feature as a ticket in Jira.
+2-Backlog Grooming – Prioritize and refine issues before starting work.
+3-Sprint Planning – Move selected issues into the current sprint.
+4-Start Work (In Progress) – Developer picks a ticket and begins implementation.
+5-Code Review / Testing – Work is reviewed and tested for quality.
+6-Done – Issue is marked complete after meeting all criteria.
+7-Track & Report – Use boards and reports to monitor progress and performance.

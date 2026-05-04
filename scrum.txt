@@ -1,0 +1,19 @@
+6. what is scrum?
+
+description-:
+
+Scrum is an Agile framework used to manage and deliver projects in small, iterative cycles called sprints.
+It focuses on delivering working software frequently rather than waiting for a big release.
+Teams are self-organizing and collaborate closely to achieve sprint goals.
+It defines specific roles like Product Owner, Scrum Master, and Development Team.
+The goal is faster delivery, adaptability, and continuous improvement.
+
+Scrum Workflow
+---------------
+1-Product Backlog Creation – List all features, tasks, and requirements.
+2-Sprint Planning – Select items from the backlog to work on in the sprint.
+3-Sprint Execution – Team builds features within a fixed time (usually 1–2 weeks).
+4-Daily Scrum (Standup) – Quick daily sync on progress and blockers.
+5-Sprint Review – Demo completed work to stakeholders for feedback.
+6-Sprint Retrospective – Reflect on process and improve for next sprint.
+7-Repeat Cycle – Start the next sprint with updated priorities.
