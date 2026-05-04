@@ -1,0 +1,18 @@
+1. what is Agile?
+
+description-:
+
+Agile is a flexible, iterative approach to building software where you work in short cycles (called sprints), ship frequently, and adapt based on real feedback — instead of planning everything upfront and hoping for the best.
+
+Agile flow representation:-
+--------------------------------
+
+1-Project Planning – Define project goals, scope, and overall vision.
+2-Product Backlog Creation – List and prioritize all features and tasks.
+3-Sprint Planning – Select and organize tasks for the upcoming sprint.
+4-Sprint Execution – Develop and complete the planned tasks.
+5-Continuous Testing & Integration – Regularly test and integrate work to ensure quality.
+6-Sprint Review – Present completed work and gather stakeholder feedback.
+7-Sprint Retrospective – Reflect on the sprint to identify improvements.
+8-Iteration / Repeat – Continue the cycle with updated priorities and learnings.
+

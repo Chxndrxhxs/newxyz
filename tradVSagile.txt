@@ -1,0 +1,32 @@
+2. whats the difference between traditional vs agile methods?
+
+description-:
+
+Traditional (Waterfall): Linear and sequential—requirements → design → development → testing → deployment. Changes are hard and costly once you move forward. Best when requirements are fixed and predictable (e.g., government or compliance-heavy systems).
+
+Agile: Iterative and flexible—work is broken into small cycles (sprints). Continuous feedback from users drives changes. You deliver working features frequently and adapt as you go. Best for evolving products where requirements aren’t fully known upfront.
+
+flow representation-:
+
+Traditional (Waterfall) Flow
+----------------------------
+
+1-Requirements Gathering – Lock down everything the system must do upfront.
+2-System Design – Plan architecture, database, and overall structure.
+3-Development – Build the entire system based on the fixed design.
+4-Testing – Verify the complete product after development is done.
+5-Deployment – Release the finished product to users.
+6-Maintenance – Fix bugs and make minor updates post-release.
+
+
+Agile Flow (Iterative Cycles / Sprints)
+----------------------------------------
+
+1-Project Planning – Define project goals, scope, and overall vision.
+2-Product Backlog Creation – List and prioritize all features and tasks.
+3-Sprint Planning – Select and organize tasks for the upcoming sprint.
+4-Sprint Execution – Develop and complete the planned tasks.
+5-Continuous Testing & Integration – Regularly test and integrate work to ensure quality.
+6-Sprint Review – Present completed work and gather stakeholder feedback.
+7-Sprint Retrospective – Reflect on the sprint to identify improvements.
+8-Iteration / Repeat – Continue the cycle with updated priorities and learnings.
