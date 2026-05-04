@@ -1,0 +1,16 @@
+4. what is team collaboration in agile?
+
+description-:
+
+Team collaboration in Agile means developers, testers, designers, and stakeholders work closely as one unit throughout the project. Instead of handing work off between silos, everyone communicates continuously and shares responsibility for outcomes. Daily check-ins, sprint reviews, and feedback loops keep the team aligned and moving fast. Problems are surfaced early and solved together rather than delayed. The goal is faster delivery with better quality through constant coordination and shared ownership.
+
+Agile Team Collaboration – Workflow
+------------------------------------
+
+1-Sprint Planning – Team discusses and agrees on what to build in the sprint.
+2-Task Breakdown – Features are split into small, clear tasks for everyone.
+3-Daily Standup – Quick sync on progress, blockers, and next steps.
+4-Collaborative Development – Devs, testers, and designers work together continuously.
+5-Continuous Feedback – Team members review each other’s work and suggest improvements.
+6-Sprint Review – Demo completed work to stakeholders and collect feedback.
+7-Retrospective – Team reflects on what went well and what to improve next sprint.

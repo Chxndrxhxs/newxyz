@@ -1,0 +1,15 @@
+3. what is software development lifecycle?
+
+description-:
+
+Software Development Life Cycle (SDLC) is the structured process used to build software from idea to maintenance. It covers stages like planning, designing, coding, testing, and deployment. The goal is to deliver reliable, high-quality software in a systematic way. It also ensures better control over time, cost, and resources. Even after release, the cycle continues through maintenance and improvements.
+
+Software Development Life Cycle (SDLC) – Flow
+-----------------------------------------------
+Requirement Analysis – Understand what needs to be built and why.
+Planning – Define scope, timeline, resources, and feasibility.
+System Design – Create architecture, database schema, and tech decisions.
+Development (Implementation) – Write code and build the system.
+Testing – Find and fix bugs to ensure quality and reliability.
+Deployment – Release the application to users or production.
+Maintenance – Monitor, fix issues, and improve the system over time.
